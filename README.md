@@ -1,7 +1,8 @@
 # empty.amas
 DayZ Amas Vanilla Mission 1.17
-
-https://steamuserimages-a.akamaihd.net/ugc/1811016872036360504/245A1B5EEAC83452491660CD7B5AA03CEB5AC83A/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=#000000&letterbox=false
+<p align="center">
+  <img width="462" height="350" src="https://dayz.li/img/amas2.png">
+</p>
 
 I only host the vanilla mission on my github account for my Amas server.
 
