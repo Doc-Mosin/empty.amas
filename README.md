@@ -1,5 +1,5 @@
 # empty.amas
-DayZ Amas Vanilla Mission 1.17
+DayZ Amas Vanilla Full Mission 1.17 for modding
 <p align="center">
   <img width="462" height="350" src="https://dayz.li/img/amas2.png">
 </p>
@@ -7,6 +7,8 @@ DayZ Amas Vanilla Mission 1.17
 How to use the mission?
 Download. Rename empty.amas-main folder to empty.amas and copy it to your mpmission folder in your DayZ server.
 After unpacking you have to unpack the areaflags.rar. At over 40Mb, it's too big for Github. Then you can delete the areaflags.rar directory
+
+This mission is intended for modding. The pure vanilla mission can be found here: https://github.com/Doc-Mosin/empty.amas-vanilla
 
 I only host the vanilla mission on my github account for my Amas server.
 
